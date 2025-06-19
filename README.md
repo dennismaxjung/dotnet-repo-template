@@ -9,7 +9,7 @@ TODO: Give a short introduction of your project. Let this section explain the ob
 ## Getting Started
 
 ## Install
-- Install the latest .NET 8 SDK.
+- Install the latest .NET 9 SDK.
 - Run `dotnet tool restore`
 - Run `dotnet husky install`
 

@@ -8,7 +8,7 @@
     </PropertyGroup>
     
     <PropertyGroup>
-        <TargetFramework>net8.0</TargetFramework>
+        <TargetFramework>net9.0</TargetFramework>
         <UseArtifactsOutput>true</UseArtifactsOutput>
         <ImplicitUsings>enable</ImplicitUsings>
         <Deterministic>true</Deterministic>
@@ -28,7 +28,6 @@
             <PrivateAssets>all</PrivateAssets>
             <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
         </PackageReference>
-        <PackageReference Include="FluentAssertions" />
         <PackageReference Include="Microsoft.NET.Test.Sdk"  />
     </ItemGroup>
 </Project>
